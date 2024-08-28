@@ -27,7 +27,7 @@ const App = () => {
       <Navbar isLoggedIn={isLoggedIn} onLogout={handleLogout} />
       <div className="container">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/home" element={<Home />} />
           <Route path="/cats" element={<Cats />} />
           <Route path="/dogs" element={<Dogs />} />
           <Route path="/adopt" element={<Adopt />} />
