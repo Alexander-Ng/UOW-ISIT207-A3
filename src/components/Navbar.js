@@ -9,10 +9,10 @@ const Navbar = ({ isLoggedIn, onLogout }) => {
         <span></span>
         <span></span>
         <span></span>
-        <a href="/" className="menu-logo">
+        <a href="/home" className="menu-logo">
             <img src="https://www.pets-heaven.co.uk/img/pet-heaven/Pet-Heaven-Logo-transparnet-med.png" alt="Pet Heaven"/>
         </a>
-        <h1><Link to="/">Pet Heaven</Link></h1>
+        <h1><Link to="/home">Pet Heaven</Link></h1>
         <div className='menu'>
             <ul>
                 <li><Link to="/cats">Cats</Link></li>
