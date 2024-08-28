@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UOW-ISIT207-A3/static/css/main.1e279bb1.css",
+    "main.js": "/UOW-ISIT207-A3/static/js/main.18cdcf4f.js",
+    "static/js/453.953c6eb7.chunk.js": "/UOW-ISIT207-A3/static/js/453.953c6eb7.chunk.js",
+    "index.html": "/UOW-ISIT207-A3/index.html",
+    "main.1e279bb1.css.map": "/UOW-ISIT207-A3/static/css/main.1e279bb1.css.map",
+    "main.18cdcf4f.js.map": "/UOW-ISIT207-A3/static/js/main.18cdcf4f.js.map",
+    "453.953c6eb7.chunk.js.map": "/UOW-ISIT207-A3/static/js/453.953c6eb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e279bb1.css",
+    "static/js/main.18cdcf4f.js"
+  ]
+}
